@@ -1,0 +1,43 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background: url(../assets/spirited-away-01.jpeg);
+    background-size: cover;
+}
+
+form {
+    text-align: center;
+}
+
+#button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}  
+
+* {
+    box-sizing: border-box;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  ul li {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: transparent;
+    padding: 12px;
+  }
+
